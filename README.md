@@ -1,6 +1,9 @@
 # wordpress-woocommerce-vat-price
 This plugins replaces the WooCommerce's price div HTML, with two HTML div boxes, one containing the price without VAT, and the other containing the price including VAT.
 
+# Notice
+This is currently hardcoded for the danish VAT value at 25%.
+
 # Usage
 This plugin will replace the initial prive HTML div element, with the following:
 ```
